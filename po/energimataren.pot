@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the energimataren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: energimataren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/energimataren/main.py:20
+msgid "Very Low"
+msgstr ""
+
+#: src/energimataren/main.py:21
+msgid "Low"
+msgstr ""
+
+#: src/energimataren/main.py:22
+msgid "Medium"
+msgstr ""
+
+#: src/energimataren/main.py:23
+msgid "High"
+msgstr ""
+
+#: src/energimataren/main.py:24
+msgid "Very High"
+msgstr ""
+
+#: src/energimataren/main.py:28
+msgid "Take a break"
+msgstr ""
+
+#: src/energimataren/main.py:28
+msgid "Drink some water"
+msgstr ""
+
+#: src/energimataren/main.py:28
+msgid "Ask for help"
+msgstr ""
+
+#: src/energimataren/main.py:29
+msgid "Move around a little"
+msgstr ""
+
+#: src/energimataren/main.py:29
+msgid "Have a snack"
+msgstr ""
+
+#: src/energimataren/main.py:29
+msgid "Talk to someone"
+msgstr ""
+
+#: src/energimataren/main.py:30
+msgid "Keep going!"
+msgstr ""
+
+#: src/energimataren/main.py:30
+msgid "You're doing great!"
+msgstr ""
+
+#: src/energimataren/main.py:31
+msgid "Focus that energy"
+msgstr ""
+
+#: src/energimataren/main.py:31
+msgid "Try a calm activity next"
+msgstr ""
+
+#: src/energimataren/main.py:32
+msgid "Take deep breaths"
+msgstr ""
+
+#: src/energimataren/main.py:32
+msgid "Go for a walk"
+msgstr ""
+
+#: src/energimataren/main.py:32
+msgid "Use a fidget toy"
+msgstr ""
+
+#: src/energimataren/main.py:86 src/energimataren/main.py:243
+msgid "Energimätaren"
+msgstr ""
+
+#: src/energimataren/main.py:96
+msgid "History"
+msgstr ""
+
+#: src/energimataren/main.py:97
+msgid "About"
+msgstr ""
+
+#: src/energimataren/main.py:122
+msgid "How is your energy right now?"
+msgstr ""
+
+#: src/energimataren/main.py:157
+msgid "Choose your energy level"
+msgstr ""
+
+#: src/energimataren/main.py:172
+#, python-format
+msgid "Energy: %s %s"
+msgstr ""
+
+#: src/energimataren/main.py:197
+msgid "Energy History"
+msgstr ""
+
+#: src/energimataren/main.py:221
+msgid "No entries yet"
+msgstr ""
+
+#: src/energimataren/main.py:249
+msgid "Visual energy level tracker for children with NPF"
+msgstr ""

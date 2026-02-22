@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+[project]
+name = "energimataren"
+version = "0.1.0"
+description = "Visual energy level tracker for children with NPF"
+authors = [{name = "Daniel Nylander", email = "daniel@danielnylander.se"}]
+license = {text = "GPL-3.0-or-later"}
+requires-python = ">=3.10"
+dependencies = ["PyGObject>=3.42"]
+[project.gui-scripts]
+energimataren = "energimataren.main:main"
+[tool.setuptools.packages.find]
+where = ["src"]

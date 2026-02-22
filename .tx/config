@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:energimataren:r:energimataren-pot]
+file_filter = po/<lang>.po
+source_file = po/energimataren.pot
+source_lang = en
+type = PO
