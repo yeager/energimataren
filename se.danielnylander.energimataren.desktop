@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Energimätaren
+Name=Energy Meter
+Name[sv]=Energimätaren
 Comment=Visual energy level tracker
 Comment[sv]=Visuell energimätare för barn
 Exec=energimataren
