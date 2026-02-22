@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the energimataren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: energimataren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:09+0100\n"
+"PO-Revision-Date: 2026-02-22 16:11+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305217/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/energimataren/main.py:20
+msgid "Very Low"
+msgstr "Mycket låg"
+
+#: src/energimataren/main.py:21
+msgid "Low"
+msgstr "Låg"
+
+#: src/energimataren/main.py:22
+msgid "Medium"
+msgstr "Medel"
+
+#: src/energimataren/main.py:23
+msgid "High"
+msgstr "Hög"
+
+#: src/energimataren/main.py:24
+msgid "Very High"
+msgstr "Mycket hög"
+
+#: src/energimataren/main.py:28
+msgid "Take a break"
+msgstr "Ta en paus"
+
+#: src/energimataren/main.py:28
+msgid "Drink some water"
+msgstr "Drick lite vatten"
+
+#: src/energimataren/main.py:28
+msgid "Ask for help"
+msgstr "Fråga efter hjälp"
+
+#: src/energimataren/main.py:29
+msgid "Move around a little"
+msgstr "Gå runt lite"
+
+#: src/energimataren/main.py:29
+msgid "Have a snack"
+msgstr "Ta ett mellanmål"
+
+#: src/energimataren/main.py:29
+msgid "Talk to someone"
+msgstr "Prata med någon"
+
+#: src/energimataren/main.py:30
+msgid "Keep going!"
+msgstr "Fortsätt så!"
+
+#: src/energimataren/main.py:30
+msgid "You're doing great!"
+msgstr "Du klarar det jättebra!"
+
+#: src/energimataren/main.py:31
+msgid "Focus that energy"
+msgstr "Fokusera den där energin"
+
+#: src/energimataren/main.py:31
+msgid "Try a calm activity next"
+msgstr "Prova en lugn aktivitet nästa gång"
+
+#: src/energimataren/main.py:32
+msgid "Take deep breaths"
+msgstr "Ta djupa andetag"
+
+#: src/energimataren/main.py:32
+msgid "Go for a walk"
+msgstr "Gå på en promenad"
+
+#: src/energimataren/main.py:32
+msgid "Use a fidget toy"
+msgstr "Använd en fidgetleksak"
+
+#: src/energimataren/main.py:86 src/energimataren/main.py:243
+msgid "Energimätaren"
+msgstr "Energimätaren"
+
+#: src/energimataren/main.py:96
+msgid "History"
+msgstr "Historik"
+
+#: src/energimataren/main.py:97
+msgid "About"
+msgstr "Om"
+
+#: src/energimataren/main.py:122
+msgid "How is your energy right now?"
+msgstr "Hur är din energi just nu?"
+
+#: src/energimataren/main.py:157
+msgid "Choose your energy level"
+msgstr "Välj din energinivå"
+
+#: src/energimataren/main.py:172
+#, python-format
+msgid "Energy: %s %s"
+msgstr "Energi: %s %s"
+
+#: src/energimataren/main.py:197
+msgid "Energy History"
+msgstr "Energihistorik"
+
+#: src/energimataren/main.py:221
+msgid "No entries yet"
+msgstr "Inga poster ännu"
+
+#: src/energimataren/main.py:249
+msgid "Visual energy level tracker for children with NPF"
+msgstr "Visuell energimätare för barn med NPF"
