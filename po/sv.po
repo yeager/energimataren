@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: energimataren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:09+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:11+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305217/sv/)\n"
@@ -93,39 +93,51 @@ msgstr "Gå på en promenad"
 msgid "Use a fidget toy"
 msgstr "Använd en fidgetleksak"
 
-#: src/energimataren/main.py:86 src/energimataren/main.py:243
+#: src/energimataren/main.py:86 src/energimataren/main.py:311
 msgid "Energimätaren"
 msgstr "Energimätaren"
 
-#: src/energimataren/main.py:96
+#: src/energimataren/main.py:104 src/energimataren/main.py:227
+msgid "Energy Meter"
+msgstr "Energimätare"
+
+#: src/energimataren/main.py:110
 msgid "History"
 msgstr "Historik"
 
-#: src/energimataren/main.py:97
+#: src/energimataren/main.py:111
 msgid "About"
 msgstr "Om"
 
-#: src/energimataren/main.py:122
+#: src/energimataren/main.py:136
 msgid "How is your energy right now?"
 msgstr "Hur är din energi just nu?"
 
-#: src/energimataren/main.py:157
+#: src/energimataren/main.py:171
 msgid "Choose your energy level"
 msgstr "Välj din energinivå"
 
-#: src/energimataren/main.py:172
+#: src/energimataren/main.py:186
 #, python-format
 msgid "Energy: %s %s"
 msgstr "Energi: %s %s"
 
-#: src/energimataren/main.py:197
+#: src/energimataren/main.py:211
 msgid "Energy History"
 msgstr "Energihistorik"
 
-#: src/energimataren/main.py:221
+#: src/energimataren/main.py:244
 msgid "No entries yet"
 msgstr "Inga poster ännu"
 
-#: src/energimataren/main.py:249
+#: src/energimataren/main.py:283
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/energimataren/main.py:317
 msgid "Visual energy level tracker for children with NPF"
 msgstr "Visuell energimätare för barn med NPF"
+
+#: src/energimataren/main.py:320
+msgid "Thanks to"
+msgstr "Tack till"
