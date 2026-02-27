@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Energimätaren
 
 Visual energy level tracker for children with NPF/autism.
